@@ -1,0 +1,25 @@
+{
+  "name": "noteforge-writer",
+  "version": "1.0.0",
+  "description": "A beautiful, feature-rich writing app for books, notes, and thoughts",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "http-server dist"
+  },
+  "dependencies": {
+    "dropbox": "^10.34.0",
+    "quill": "^1.3.7",
+    "lucide": "^0.263.1",
+    "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5",
+    "http-server": "^14.1.1"
+  },
+  "keywords": ["writing", "notes", "books", "editor", "dropbox"],
+  "author": "itzpanth solutions & tintools solutions",
+  "license": "MIT"
+}
