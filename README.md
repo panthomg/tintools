@@ -17,7 +17,7 @@ Track your moods, visualize emotional trends, and enjoy a private, on-device jou
 - Available on web (IOS, ANDRIOD, DESKTOP & MAC) and Andriod App
 
 🔗  [Explore MoodVibe](https://moodvibee.netlify.app)
-🔗  [Download MoodVibe Andriod App](https://moodvibee.netlify.app](https://tintools.netlify.app/andriod)
+🔗  [Download MoodVibe Andriod App](https://tintools.netlify.app/andriod)
 ---
 
 ## 🧰 Creative Suite Highlights
