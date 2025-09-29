@@ -16,7 +16,7 @@ Track your moods, visualize emotional trends, and enjoy a private, on-device jou
 - Secure, encrypted notes
 - Available on web (IOS, ANDRIOD, DESKTOP & MAC) and Andriod App
 
-🔗  [Explore MoodVibe](https://moodvibee.netlify.app)
+🔗  [Explore MoodVibe](https://moodvibee.netlify.app/onboarding)
 🔗  [Download MoodVibe Andriod App](https://tintools.netlify.app/andriod)
 ---
 
